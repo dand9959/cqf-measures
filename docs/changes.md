@@ -94,6 +94,7 @@ These changes will be published as part of the STU3 release (v3.0.0)
 
 ### Compatible, Substantive Changes
 
+* [**FHIR-36304**](https://jira.hl7.org/browse/FHIR-36304): Replaced extension references to internally defined extensions with external reference urls for 17 defined extensions, and removed those extension definitions from the IG 
 * [**FHIR-36304**](https://jira.hl7.org/browse/FHIR-36304): Added CQFMExecutableMeasure profile to separate computable/executable concerns of a measure
 * [**FHIR-34290**](https://jira.hl7.org/browse/FHIR-34290): Added capabilities to the measure terminology service to align with publishing terminology service capabilities
 * [**FHIR-33970**](https://jira.hl7.org/browse/FHIR-33970): Added searching by useContext

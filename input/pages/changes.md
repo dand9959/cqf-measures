@@ -32,6 +32,7 @@ This page details changes made in each version of the Quality Measure IG
 * **Applied**: Updated the Quality Improvement Ecosystem paragraph to increase readability ([FHIR-44070](https://jira.hl7.org/browse/FHIR-44070))([Applied here](https://hl7.org/fhir/us/cqfmeasures/2024Jan/#quality-improvement-ecosystem))
 * **Applied**: Updated the text and image in data model standard landscape section to remove DEQM and HEDIS and replaced with Measure Content IG ([FHIR-44530](https://jira.hl7.org/browse/FHIR-44530))([Applied here](https://hl7.org/fhir/us/cqfmeasures/2024Jan/#data-model-standards-landscape))
 * **Applied**: Created an improvementNotationGuidance extension in the FHIR extensions pack and added to Publishable Measure at root and group level. ([FHIR-43463](https://jira.hl7.org/browse/FHIR-43463))([Applied here](https://hl7.org/fhir/us/cqfmeasures/StructureDefinition-publishable-measure-cqfm.html))
+* **Applied**: Replaced extension references to internal extensions with external reference urls for 17 defined extensions, and removed those extension definitions from the IG ([FHIR-43969](https://jira.hl7.org/browse/FHIR-43969))(Applied througout))
 
 ### STU4 Publication for FHIR R4 (v4.0.0)
 

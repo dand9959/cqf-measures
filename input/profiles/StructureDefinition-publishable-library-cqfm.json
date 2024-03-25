@@ -168,7 +168,7 @@
           {
             "code": "Extension",
             "profile": [
-              "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-publicationStatus"
+              "http://hl7.org/fhir/StructureDefinition/cqf-publicationStatus"
             ]
           }
         ],
@@ -184,7 +184,7 @@
           {
             "code": "Extension",
             "profile": [
-              "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-publicationDate"
+              "http://hl7.org/fhir/StructureDefinition/cqf-publicationDate"
             ]
           }
         ],

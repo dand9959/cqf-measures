@@ -33,7 +33,7 @@
             }
           },
           {
-            "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-testCaseDescription",
+            "url": "http://hl7.org/fhir/StructureDefinition/cqf-inputParameters",
             "valueMarkdown": "Example test case in a bundle illustrating expected input parameters and expected output results given those input parameters along with evaluatedResources."
           }
         ],

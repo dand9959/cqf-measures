@@ -496,7 +496,7 @@ This example illustrates the use of a draft quality program description to speci
 ],
 "extension": [
   {
-    "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-expansionParameters",
+    "url": "http://hl7.org/fhir/StructureDefinition/cqf-expansionParameters",
     "valueReference": {
       "reference": "#exp-params"
     }

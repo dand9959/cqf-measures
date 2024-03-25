@@ -75,7 +75,7 @@
           {
             "code": "Extension",
             "profile": [
-              "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode"
+              "http://hl7.org/fhir/StructureDefinition/cqf-directReferenceCode"
             ]
           }
         ],
@@ -92,7 +92,7 @@
           {
             "code": "Extension",
             "profile": [
-              "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition"
+              "http://hl7.org/fhir/StructureDefinition/cqf-logicDefinition"
             ]
           }
         ],
@@ -108,7 +108,7 @@
           {
             "code": "Extension",
             "profile": [
-              "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-inputParameters"
+              "http://hl7.org/fhir/StructureDefinition/cqf-inputParameters"
             ]
           }
         ],
@@ -164,7 +164,7 @@
           {
             "code": "Extension",
             "profile": [
-              "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-defaultValue"
+              "http://hl7.org/fhir/StructureDefinition/cqf-defaultValue"
             ]
           }
         ],
@@ -188,7 +188,7 @@
           {
             "code": "Extension",
             "profile": [
-              "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-isSelective"
+              "http://hl7.org/fhir/StructureDefinition/cqf-isSelective"
             ]
           }
         ],
@@ -204,7 +204,7 @@
           {
             "code": "Extension",
             "profile": [
-              "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-valueFilter"
+              "http://hl7.org/fhir/StructureDefinition/cqf-valueFilter"
             ]
           }
         ],
@@ -220,7 +220,7 @@
           {
             "code": "Extension",
             "profile": [
-              "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-fhirQueryPattern"
+              "http://hl7.org/fhir/StructureDefinition/cqf-fhirQueryPattern"
             ]
           }
         ],

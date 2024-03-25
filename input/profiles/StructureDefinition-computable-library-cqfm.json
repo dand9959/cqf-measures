@@ -74,7 +74,7 @@
           {
             "code": "Extension",
             "profile": [
-              "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode"
+              "http://hl7.org/fhir/StructureDefinition/cqf-directReferenceCode"
             ]
           }
         ],
@@ -90,7 +90,7 @@
           {
             "code": "Extension",
             "profile": [
-              "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-cqlOptions"
+              "http://hl7.org/fhir/StructureDefinition/cqf-cqlOptions"
             ]
           }
         ],
@@ -131,7 +131,7 @@
           {
             "code": "Extension",
             "profile": [
-              "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-fhirQueryPattern"
+              "http://hl7.org/fhir/StructureDefinition/cqf-fhirQueryPattern"
             ]
           }
         ],

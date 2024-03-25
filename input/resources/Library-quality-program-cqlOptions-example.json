@@ -40,7 +40,7 @@
   ],
   "extension": [
     {
-      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-cqlOptions",
+      "url": "http://hl7.org/fhir/StructureDefinition/cqf-cqlOptions",
       "valueReference": {
         "reference": "#cql-options"
       }
